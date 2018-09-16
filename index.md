@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/lauradoepker/lauradoepker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a postodoctoral research fellow at Fred Hutchinson Cancer Research Center in Seattle, WA.  I study how HIV infection affects antibody repertoires and the evolution of individual antibody lineages.  I am mentored by [Julie Overbaugh](https://research.fhcrc.org/overbaugh/en.html) (immunology and virology) and [Erick Matsen](https://matsen.fredhutch.org/) (computational biology).
 
 ### Markdown
 
