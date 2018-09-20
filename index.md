@@ -10,7 +10,7 @@ I also play competitive mixed ultimate frisbee with [Birdfruit](https://seattleb
 - Studying the effects of age and viral infection on human B cell repertoires
 
 ## Contact
-![Laura](Laura Noges.jpg =20x40)  
+![Laura](Laura Noges.jpg)  
 Laura Doepker, PhD  
 lnoges@fredhutch.org
 
