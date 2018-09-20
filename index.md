@@ -7,4 +7,4 @@ I also play competitive mixed ultimate frisbee with [Birdfruit](https://seattleb
 ## Projects
 - Studying the development of HIV-1-specific antibodies
 - Computational antibody discovery
-- Comparing human B cell repertoires between healthy and sick infants and adults
+- Studying the effects of age and viral infection on human B cell repertoires
