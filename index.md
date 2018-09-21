@@ -13,7 +13,7 @@ I also play competitive mixed ultimate frisbee with Seattle [Birdfruit](https://
 
 ## Contact
 Laura Doepker, PhD  
-lnoges@fredhutch.org
+ldoepker@fredhutch.org
 
 1100 Fairview Ave N  
 Fred Hutchinson C2-111  
